@@ -1,6 +1,8 @@
 # Red-Wine-Linear-Regression
 A data regression challenge to find the best linear regression model that can best fit the data from the classic Red Wine dataset, with a limit of 30 on the number of dimensions that can be used. 
 The current model has MSE of 0.3237 on the test set.
+Code will also plot the actual and predicted values for the wine qualities in the test dataset.
+Also, another plot will show the error rate compared with frequency of occurrence of certain class value, for the entire dataset.
 
 To execute this file, import file into Matlab.
 If necessary, change the matlab's working directory path via command : cd your_path
