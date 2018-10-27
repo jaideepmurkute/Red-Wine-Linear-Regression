@@ -9,4 +9,4 @@ Dataset can be found here: https://archive.ics.uci.edu/ml/datasets/wine+quality
 
 Note:
 Challenge was published as a part of CMPE-677 Machine Intelligence class at RIT. 
-Implementation is in MATLAB. Creation of such model includs understanding and experimentation with the importance of different features, co-variance analysis to find dependency and independence between data features, defining a mathematical function that can closely match the pattern of the data and solving linear regression problem with Normal Equations method.
+Implementation is in MATLAB. Creation of such model includes understanding and experimentation with the importance of different features, co-variance analysis to find dependency and independence between data features, defining a mathematical function that can closely match the pattern of the data and solving linear regression problem with Normal Equations method.
